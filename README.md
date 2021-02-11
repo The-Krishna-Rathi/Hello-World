@@ -1,7 +1,5 @@
 # Hello-World
-My first repository on github
-
-Hii there!!
+My first repository on githu
 I am Krishna Rathi. 
 This is my First Repository on github :-)
  
@@ -9,4 +7,5 @@ This is my First Repository on github :-)
   cout<<"Hello World"<<endl;
  }
  
- 
+ Ryhpfucohcjvjvj
+ Gchpcuoucuu
